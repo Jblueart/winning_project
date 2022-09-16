@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+CPI_URBAN_US_CITY_avg.csv
+
+PET_PRI_GND_DCUS_NUS_W.csv
