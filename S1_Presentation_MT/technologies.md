@@ -1,12 +1,12 @@
 # Technologies Used
 ## Data Cleaning and Analysis
-Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Python.
+Pandas in Jupyter Notebook will be used to clean the data and perform an exploratory analysis. MatPlot Lib will be used to visualize the dataset before analysis.
 
 ## Database Storage
-Mongo is the database we intend to use, and we will integrate Flask to display the data.
+We will use Postrgres to store our data.
 
 ## Machine Learning
-SciKitLearn is the ML library we'll be using to create a classifier. Our training and testing setup is ___. Extra ML verbiage here.
+We will use SciKitLearn and ExponentialSmoothing to create our models and to predict our "what if" data.
 
 ## Dashboard
-In addition to using a Flask template, we will also integrate D3.js for a fully functioning and interactive dashboard. It will be hosted on ___.
+We will use Tableau to visualize our data and to create a dashboard.
