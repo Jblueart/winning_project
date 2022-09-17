@@ -59,9 +59,6 @@ CREATE TABLE "gas_prices_match" (
      )
 );
 
-ALTER TABLE "food_cpi_full" ADD CONSTRAINT "fk_food_cpi_full_date" FOREIGN KEY("date")
-REFERENCES "gas_prices_full" ("date");
-
 ALTER TABLE "gas_prices_match" ADD CONSTRAINT "fk_gas_prices_match_date" FOREIGN KEY("date")
 REFERENCES "food_cpi_match" ("date");
 
