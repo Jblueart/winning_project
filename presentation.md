@@ -3,6 +3,8 @@
 ## Topic
 What would food and gas prices be like in the years 2020-2022 (and beyond) if Covid-19 and the war between Ukraine and Russia didn't happen?
 
+We picked this topic because world-wide events have changed our lives in an unprecedented way. This change is hard to quantify or to conceptualize. Exploring food and gas prices is one way for us to try to quantify the effect that Covid-19 and the war between Ukraine and Russia has had and has on our daily lives. 
+
 ## Data
 We will use two set of data from Kaggle.com:
 
