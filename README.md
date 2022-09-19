@@ -24,6 +24,3 @@ Standardizing the data and cleaning it up was a crucial part of this process. Th
 
 ### US Gasoline and Diesel Retail Prices 1995-2021
 ![image](https://user-images.githubusercontent.com/104408782/190923305-bb0f794a-fcfa-4eca-9375-20597fa61198.png)
-
-### Commodity Prices Dataset (2000-2022)
-![image (1)](https://user-images.githubusercontent.com/104408782/190923445-bb3f6389-14ad-45b0-beed-1a39b73bd320.png)
