@@ -67,7 +67,5 @@ The Brown Simple Exponential Smoothing Method had the most impactful results. In
 The Green line displays the machine's Predictions & the gold line represents reality. Note the strong spike shortly after Covid struck. The first year or predictions is nearly spot on and the second year things took a wild turn as we certainly witnessed for ourselves. 
 The dramatic spike in costs are still being absorbed but it's fascinating to see that computer models can only go so far in predicting the future. Sometimes we just can't see what's coming. 
 
-
-
-
-
+# Tableau Dashboard
+[Link to Tableau Dashboard](https://public.tableau.com/views/GasPricesandFoodCPI/GasPricesandCPIRealvsPredicted?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
