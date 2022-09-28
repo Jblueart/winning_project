@@ -40,3 +40,7 @@ Standardizing the data and cleaning it up was a crucial part of this process. Th
 ### US Gasoline and Diesel Retail Prices 1995-2021
 ![image](https://user-images.githubusercontent.com/104408782/190923305-bb0f794a-fcfa-4eca-9375-20597fa61198.png)
 
+
+## Tableau Dashboard
+
+[Link to Tableau Dashboard](https://public.tableau.com/views/GasPricesandFoodCPI/GasPricesandCPIRealvsPredicted?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
