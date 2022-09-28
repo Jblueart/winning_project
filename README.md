@@ -64,7 +64,7 @@ We filtered the data to drop the last 22 months, so March 2019-2021 so that we c
 
 The Brown Simple Exponential Smoothing Method had the most impactful results. In this chart, the blue line represents the training information for CPI. 
 The Green line displays the machine's Predictions & the gold line represents reality. Note the strong spike shortly after Covid struck. The first year or predictions is nearly spot on and the second year things took a wild turn as we certainly witnessed for ourselves. 
-The dramatic spike in costs are still being absorbed but it's fascinating to see that computer models can only go so far in predicting the future. Something we just can't see coming. 
+The dramatic spike in costs are still being absorbed but it's fascinating to see that computer models can only go so far in predicting the future. Sometimes we just can't see what's coming. 
 
 
 
