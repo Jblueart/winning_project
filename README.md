@@ -68,6 +68,18 @@ The Green line displays the machine's Predictions & the gold line represents rea
 The dramatic spike in costs are still being absorbed but it's fascinating to see that computer models can only go so far in predicting the future. Sometimes we just can't see what's coming. 
 
 
+## Tableau Magic
+
+https://public.tableau.com/views/GasPricesandFoodCPI/GasPricesandCPIRealvsPredicted?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
+Melissa has created a great storyboard of our information click the above to see more!
+
+## Presentation 
+
+https://docs.google.com/presentation/d/19biskWyzR1KbM66z7NyngdCY0jhZaYfosbQP963iWJc/edit?usp=sharingv
+
+Torrey has helped with creating a fantastic presentation: click above to see more!
+
 
 
 
