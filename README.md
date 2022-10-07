@@ -70,12 +70,12 @@ The dramatic spike in costs are still being absorbed but it's fascinating to see
 
 ## Tableau Magic
 
-https://public.tableau.com/views/GasPricesandFoodCPI-TR/GasFood?:language=en-US&:display_count=n&:origin=viz_share_link
+[Tableau Magic](https://public.tableau.com/views/GasPricesandFoodCPI/GasPricesandCPIRealvsPredicted?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 We've created a Tableau Visual with several graphs, storys, and dashboards to show our data. Be sure to view the following tabs: Gas & Food, 9/11, Stock Market Crash, and Covid. Click the link above to view all these visuals!
 
 ## Presentation 
 
-https://docs.google.com/presentation/d/19biskWyzR1KbM66z7NyngdCY0jhZaYfosbQP963iWJc/edit?usp=sharingv
+[Google Slides](https://docs.google.com/presentation/d/19biskWyzR1KbM66z7NyngdCY0jhZaYfosbQP963iWJc/edit?usp=sharingv)
 
 The presentation we'll be using for class is above.
