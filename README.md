@@ -70,12 +70,12 @@ The dramatic spike in costs are still being absorbed but it's fascinating to see
 
 ## Tableau Magic
 
-https://public.tableau.com/views/GasPricesandFoodCPI/GasPricesandCPIRealvsPredicted?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+[Tableau Magic](https://public.tableau.com/views/GasPricesandFoodCPI/GasPricesandCPIRealvsPredicted?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 Melissa has created a great storyboard of our information click the above to see more!
 
 ## Presentation 
 
-https://docs.google.com/presentation/d/19biskWyzR1KbM66z7NyngdCY0jhZaYfosbQP963iWJc/edit?usp=sharingv
+[Google Slides](https://docs.google.com/presentation/d/19biskWyzR1KbM66z7NyngdCY0jhZaYfosbQP963iWJc/edit?usp=sharingv)
 
 Torrey has helped with creating a fantastic presentation: click above to see more!
