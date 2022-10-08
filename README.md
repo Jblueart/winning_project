@@ -1,12 +1,12 @@
 # winning_project
-## Project Topic
+## Gas & Food pricing trends
 
 We plan to explore the relationship between food & gas prices and are going to use a machine learning model to examine what might have been. 
 We'll look to see what our model predicts food and gas prices at had Covid-19 not disrupted the world in 2020.
 
 We'll then compare the prediction to the actual data to see how far off the results were. 
 
-We picked this topic because world-wide events have changed our lives in an unprecedented way. This change is hard to quantify or to conceptualize. Exploring food and gas prices is one way for us to try to quantify the effect that Covid-19 and the war between Ukraine and Russia has had and has on our daily lives. 
+We picked this topic because world-wide events have changed our lives in an unprecedented way. This change is hard to quantify or to conceptualize. Exploring the link, if there is one, between food and gas prices is a tangible way for us to try to quantify the effect that Covid-19 and the war between Ukraine and Russia has had and has on our daily lives. 
 
 ## Data
 We will use two set of data from Kaggle.com:
@@ -33,13 +33,11 @@ We also decided to share email's and phone numbers as team to be sure everyone w
 
 ## DataSets: 
 
-We will use two set of data from Kaggle.com:
-
 "Food Prices in US Cities" documents the CPI for food monthly from 1952 to July 2022.
 
 "US Gasoline and Diesel Retail Prices" documents the prices for various types of gas weekly from 1995 to January 2021.
 
-Standardizing the data and cleaning it up was a crucial part of this process. The Gasoline data originally had a weekly set of dates & values, however the Comodity prices is listed monthly We considered several ways to standardize the weekly set of data. We could do an Average of the monthly price, or use either the first or last week's number of each month. Even after dropping the extra values to focus on a monthly, rather than weekly data set we needed to focus on the Month & Year for our Postgres database with cleaned up information & to examine the data to learn more about it. 
+Standardizing the data and cleaning it up was a crucial part of this process. Torrey spent hours prepping the information. The Gasoline data originally had a weekly set of dates & values, however the Comodity prices is listed monthly We considered several ways to standardize the weekly set of data. We could do an Average of the monthly price, or use either the first or last week's number of each month. Even after dropping the extra values to focus on a monthly, rather than weekly data set we needed to focus on the Month & Year for our Postgres database with cleaned up information & to examine the data to learn more about it. 
 
 
 ### US Gasoline and Diesel Retail Prices 1995-2021
@@ -47,7 +45,7 @@ Standardizing the data and cleaning it up was a crucial part of this process. Th
 
 ## Exploring the data
 
-Shuchi setup a chart to look at the relationship between the average gas price variance within the different categories. When overlayed with a time based serries looking at CPI & Gas Prices we see a fairly consistent rhythm in the CPI pricing and much more volitility within the gas pricing. In General food pricing has increased at a more rapid pace than the gas prices over time. 
+Shuchi setup a chart to look at the relationship between the average gas price variance within the different categories. When overlayed with a time based serries looking at CPI & Gas Prices we see a fairly consistent rhythm in the CPI pricing and much more volitility within the gas pricing. In General food pricing has increased at a more rapid pace than the gas prices over time.
 
 ![image](https://user-images.githubusercontent.com/104408782/192115655-4bd38580-2d0c-406b-be64-aec18105f0c6.png)
 
@@ -72,10 +70,15 @@ The dramatic spike in costs are still being absorbed but it's fascinating to see
 
 [Tableau Magic](https://public.tableau.com/views/GasPricesandFoodCPI/GasPricesandCPIRealvsPredicted?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
-We've created a Tableau Visual with several graphs, storys, and dashboards to show our data. Be sure to view the following tabs: Gas & Food, 9/11, Stock Market Crash, and Covid. Click the link above to view all these visuals!
+Melissa & Torrey created Tableau Visuals with several graphs, storys, and dashboards to show our data. Be sure to view the following tabs: Gas & Food, 9/11, Stock Market Crash, and Covid. Click the link above to view all these visuals!
 
 ## Presentation 
 
 [Google Slides](https://docs.google.com/presentation/d/19biskWyzR1KbM66z7NyngdCY0jhZaYfosbQP963iWJc/edit?usp=sharingv)
 
 The presentation we'll be using for class is above.
+
+
+### Conclusion
+
+Though we learned that the prices of Gas & Food continue to rise, the gas pricing proves to be much more volitile. There are so many more flucctuations than we anticipated. We thought the gas pricing would have an immediate effect on the food pricing, but we learned that food pricing is more seasonable, and relatively more stable than gas. We learned much during this project. The crucial skills of open communication helped us to work together and negotiate our different roles so we weren't overlapping on the project too much, though we all helped with various aspects. 
