@@ -53,24 +53,55 @@ Since the various types of gas are displaying a close relationship we can also l
 
 ![image](https://user-images.githubusercontent.com/104408782/192115706-b6167994-5476-4fad-83d0-d533a8f11115.png)
 
-## Machine Learning
+### Machine Learning
 
-Shuchi tested 3 different models with gusto. Random Forest Regressor, Linear Regression & Brown Exponential Smoothing. 
+Shuchi & Priyanka tested 4 different models with gusto. Random Forest Regressor, Linear Regression & Brown Exponential Smoothing, as well as the Triple Exponential Smoothing method. 
 The data time frame ranges from January 1995, thru January 2021. We limited the gas prices to a monthly figure and to standardize to match the CPI monthly update. 
 We filtered the data to drop the last 22 months, so March 2019-2021 so that we could train the models to evaluate the various predictions to compare the results. 
-### Brown Simple Exponential Smoothing Method 
-![image](https://user-images.githubusercontent.com/104408782/192116026-7d80eae9-a768-4449-bb9b-d37b22353329.png)
+The resulting graphs are really interesting. In the following images, the training data is Blue, Predictions in Green & Actual Results in Yellow. 
 
-The Brown Simple Exponential Smoothing Method had the most impactful results. In this chart, the blue line represents the training information for CPI. 
-The Green line displays the machine's Predictions & the gold line represents reality. Note the strong spike shortly after Covid struck. The first year or predictions is nearly spot on and the second year things took a wild turn as we certainly witnessed for ourselves. 
-The dramatic spike in costs are still being absorbed but it's fascinating to see that computer models can only go so far in predicting the future. Sometimes we just can't see what's coming. 
+## Random Forest Regressor: 
+![image](https://user-images.githubusercontent.com/104408782/194882819-4dd46486-f0e8-49e4-b601-cb2f2b99fb8d.png)
 
+The predictions on CPI pricing from Random Forest were more conservative than the actual data. Instead of a slight dip and huge jump, we see the Random Forest Regressor actually predicted a slight decline in price followed by a general leveling off of prices. 
 
-## Tableau Magic
+## Linear Regression Model
+![image](https://user-images.githubusercontent.com/104408782/194883740-55bdbc20-68e1-44d6-af85-80f3a487f80e.png)
+
+The predictions from the Linear Regression model are much more volitile & erratic. We see even bigger jumps in the data and more frequent changes than reality showed us. To my eyes it almost looks like the linear regression model predicted the CPI with a pattern more similar to the gas prices where we see much more fluid prices and instant market adjustments. Whereas with CPI in general changes are gradual and more noticable yearly rather than monthly. 
+
+## Brown Simple Exponential Smoothing Method 
+![image](https://user-images.githubusercontent.com/104408782/194884305-49d6f4ea-e6c0-490c-bbc6-ea5667425a8c.png)
+
+The Brown Simple Exponential Smoothing Method had the most accurate results. Note the strong spike shortly after Covid struck. Thepredictions are nearly spot on and show a similar trajectory of growth in CPI prices. The dramatic spike in costs are still being absorbed but it's fascinating to see that computer models can only go so far in predicting the future.  Sometimes we just can't see what's coming.
+
+## Triple Exponential Smoothing Method
+![image](https://user-images.githubusercontent.com/104408782/194885466-30ae37cf-a803-458c-b0ff-100d7580510a.png)
+
+A near match for the Brown Simple exponential method  with it's results. 
+
+### Tableau Magic
+![image](https://user-images.githubusercontent.com/104408782/194886360-d8bf8f53-e69c-4954-9d0d-b20ad0ff60fa.png)
+
+## Gas prices
+![image](https://user-images.githubusercontent.com/104408782/194886748-0f3a383a-facb-4813-9c3f-e11e72e7a061.png)
+
+Though Gas Prices run in near parallel, it's interesting to note  that some categorys are always more expensive than others making me wonder about the costs associate with preparing the raw materials for market. This chart has a fun animation so you can watch the prices populate on the graph. 
+
+## Zoom in to the effects of Summer 2019- Winter 2020
+![image](https://user-images.githubusercontent.com/104408782/194887383-3277960e-3d11-4702-93bb-4eae4db0d1c3.png)
+
+note the inverse relationship between gas & food prices at the onset of the pandemic. 
+
+## Historical Milestones to add Context
+![image](https://user-images.githubusercontent.com/104408782/194887822-a5ba7146-1aa3-4512-9f00-0577237fe3e4.png)
+
+Seeing the numbers is one thing, but having context and being able to look at the data through the lense of Historical moments in time gives the numbers more tangible meaning & helps understand the time scale more clearly. 
+
 
 [Tableau Magic](https://public.tableau.com/views/GasPricesandFoodCPI/GasPricesandCPIRealvsPredicted?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
-Melissa & Torrey created Tableau Visuals with several graphs, storys, and dashboards to show our data. Be sure to view the following tabs: Gas & Food, 9/11, Stock Market Crash, and Covid. Click the link above to view all these visuals!
+Melissa & Torrey created Tableau Visuals with several graphs, storys, and dashboards to show our data.Click link to view all these visuals & more!
 
 ## Presentation 
 
