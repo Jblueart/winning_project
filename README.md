@@ -109,7 +109,10 @@ Melissa & Torrey created Tableau Visuals with several graphs, storys, and dashbo
 
 The presentation we'll be using for class is above.
 
+### Challenges & Obstacles
+
+Luckily all of us have grown used to working remotely with a team, I think we developed a good cadence, and meeting twice a week as a group helped us divide tasks so we weren't all working on the same piece. The crucial skills of open communication helped us to work together and negotiate our different roles so we weren't overlapping on the project too much, though we all helped with various aspects.  One of my biggest lessons as the database manager was learning how to merge correctly. We were also able to work in different branches to better allow for changes to take place on the different files. That way we weren't using the same file by mistake and adding in conflicting code. Where we did make mistakes we were able to edit and update our files to resolve the conflicts. We now understand working with a group repository much better. 
 
 ### Conclusion
 
-Though we learned that the prices of Gas & Food continue to rise, the gas pricing proves to be much more volitile. There are so many more flucctuations than we anticipated. We thought the gas pricing would have an immediate effect on the food pricing, but we learned that food pricing is more seasonable, and relatively more stable than gas. We learned much during this project. The crucial skills of open communication helped us to work together and negotiate our different roles so we weren't overlapping on the project too much, though we all helped with various aspects. 
+Though we learned that the prices of Gas & Food continue to rise, the gas pricing proves to be much more volitile. There are so many more flucctuations than we anticipated. We thought the gas pricing would have an immediate effect on the food pricing, but we learned that food pricing is more seasonable, and relatively more stable than gas. We learned much during this project. It was enlightening to look at the history of these comodity prices to learn more about the relationship with historical events. The more we can understand how these prices are affected the better we can plan for the future. 
