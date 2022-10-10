@@ -26,10 +26,16 @@ We also hope to explore the relationship between gas and food prices.
 ![team roles](https://user-images.githubusercontent.com/104408782/190533872-e8342af9-54eb-49c0-91d8-320afb719bd6.png)
 
 
+Joe Square
+Suchi & Priyanka: Triangle
+Torrey: Circle
+Melissa: X
+
 ## Slack is our go to communication center to diagnose issues and colaborate on problem solving. 
 
 Torrey Setup a group channel for us to keep up to date between class sessions. 
-We also decided to share email's and phone numbers as team to be sure everyone was reachable. 
+We also decided to share email's and phone numbers as team to be sure everyone was reachable.
+We had some Saturday sessions to collaborate & mostly independant project focus time. 
 
 ## DataSets: 
 
