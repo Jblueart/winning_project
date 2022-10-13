@@ -105,7 +105,7 @@ note the inverse relationship between gas & food prices at the onset of the pand
 Seeing the numbers is one thing, but having context and being able to look at the data through the lense of Historical moments in time gives the numbers more tangible meaning & helps understand the time scale more clearly. 
 
 
-[Tableau Magic](https://public.tableau.com/views/GasPricesandFoodCPI/GasPricesandCPIRealvsPredicted?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+[Tableau Magic](https://public.tableau.com/views/GasPricesandFoodCPI/GasFood?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 Melissa & Torrey created Tableau Visuals with several graphs, storys, and dashboards to show our data.Click link to view all these visuals & more!
 
